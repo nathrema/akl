@@ -1,0 +1,88 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "left_hand": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "b",
+      "l",
+      "m",
+      "c",
+      "z"
+    ],
+    [
+      null,
+      "n",
+      "r",
+      "t",
+      "d",
+      "p"
+    ],
+    [
+      null,
+      "x",
+      "q",
+      "v",
+      "g",
+      "w"
+    ]
+  ],
+  "name": "Bunya",
+  "primary": true,
+  "right_hand": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "j",
+      "f",
+      "o",
+      "u",
+      ",",
+      null
+    ],
+    [
+      "y",
+      "h",
+      "a",
+      "e",
+      "i",
+      {
+        "type": "inferred",
+        "value": "-"
+      }
+    ],
+    [
+      ";",
+      "k",
+      "'",
+      "/",
+      ".",
+      null
+    ]
+  ],
+  "thumbs": {
+    "left": [
+      "s",
+      null
+    ],
+    "right": [
+      null,
+      " "
+    ]
+  },
+  "type": "ortho_6x4",
+  "year": "2023"
+}

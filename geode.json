@@ -1,0 +1,72 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "geode",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "v",
+      "d",
+      "g",
+      "w",
+      "b",
+      "q",
+      "f",
+      "o",
+      "u",
+      "j",
+      ";",
+      null,
+      null
+    ],
+    [
+      "t",
+      "s",
+      "n",
+      "c",
+      "p",
+      "k",
+      "h",
+      "a",
+      "i",
+      "e",
+      "-"
+    ],
+    [
+      "z",
+      "x",
+      "m",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "'",
+      "y",
+      "l",
+      ".",
+      ",",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "r"
+}

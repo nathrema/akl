@@ -1,0 +1,88 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "Neon Repeat-VN",
+  "primary": true,
+  "right_alt": "e",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic",
+        "id": 7
+      },
+      "w",
+      "d",
+      "g",
+      "v",
+      "q",
+      "j",
+      "u",
+      "o",
+      "y",
+      "x",
+      ";",
+      null
+    ],
+    [
+      "n",
+      "c",
+      "t",
+      "s",
+      "b",
+      "k",
+      "r",
+      "i",
+      "a",
+      "h",
+      "/"
+    ],
+    [
+      "p",
+      "m",
+      "f",
+      {
+        "type": "repeat"
+      },
+      "z",
+      {
+        "rules": {
+          "default": {
+            "type": "repeat"
+          }
+        },
+        "type": "magic",
+        "id": 5
+      },
+      "l",
+      ",",
+      ".",
+      {
+        "type": "inferred",
+        "value": "'"
+      }
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

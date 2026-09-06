@@ -1,0 +1,74 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "bunya",
+  "primary": true,
+  "right_alt": "s",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "b",
+      "l",
+      "m",
+      "c",
+      "w",
+      "j",
+      "f",
+      "o",
+      "u",
+      ",",
+      null,
+      null,
+      null
+    ],
+    [
+      "n",
+      "r",
+      "t",
+      "d",
+      {
+        "type": "repeat"
+      },
+      "y",
+      "h",
+      "a",
+      "e",
+      "i",
+      ";"
+    ],
+    [
+      "q",
+      "v",
+      "g",
+      "p",
+      "z",
+      "x",
+      "k",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      "/",
+      "."
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

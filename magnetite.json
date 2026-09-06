@@ -1,0 +1,72 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "magnetite",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "v",
+      "d",
+      "r",
+      "w",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      ";",
+      "y",
+      "u",
+      "o",
+      "f",
+      "-",
+      null,
+      null
+    ],
+    [
+      "t",
+      "n",
+      "l",
+      "g",
+      "b",
+      "j",
+      "s",
+      "i",
+      "a",
+      "h",
+      "."
+    ],
+    [
+      "q",
+      "x",
+      "c",
+      "m",
+      "'",
+      "k",
+      "p",
+      "z",
+      "/",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "e"
+}

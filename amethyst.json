@@ -1,0 +1,75 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "meteorite",
+  "name": "amethyst",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "v",
+      "t",
+      "l",
+      "r",
+      "b",
+      "'",
+      "f",
+      "o",
+      "u",
+      "j",
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null,
+      null
+    ],
+    [
+      "s",
+      "h",
+      "d",
+      "n",
+      "y",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "c",
+      "a",
+      "e",
+      "i",
+      ";"
+    ],
+    [
+      "z",
+      "q",
+      "g",
+      "w",
+      "x",
+      "p",
+      "k",
+      ".",
+      "/",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "m"
+}

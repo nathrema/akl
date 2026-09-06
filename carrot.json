@@ -1,0 +1,77 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "carrot",
+  "primary": true,
+  "right_alt": "t",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "x",
+      "l",
+      "f",
+      "c",
+      "g",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      "k",
+      "o",
+      "u",
+      "j",
+      null,
+      null,
+      null
+    ],
+    [
+      "n",
+      "r",
+      "s",
+      "d",
+      "m",
+      "b",
+      "h",
+      "a",
+      "e",
+      "i",
+      "."
+    ],
+    [
+      "q",
+      "v",
+      "w",
+      "y",
+      "z",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "p",
+      ";",
+      ",",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

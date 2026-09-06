@@ -1,0 +1,77 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "tomato2",
+  "primary": true,
+  "right_alt": "s",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "v",
+      "m",
+      "l",
+      "y",
+      "p",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "o",
+      "u",
+      "x",
+      null,
+      null,
+      null
+    ],
+    [
+      "n",
+      "t",
+      "r",
+      "d",
+      "w",
+      "f",
+      "h",
+      "a",
+      "e",
+      "i",
+      "."
+    ],
+    [
+      "q",
+      "j",
+      "c",
+      "g",
+      "z",
+      "k",
+      "b",
+      ";",
+      "/",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

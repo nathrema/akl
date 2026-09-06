@@ -1,0 +1,72 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "marble",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "v",
+      "l",
+      "d",
+      "w",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      ";",
+      "y",
+      "u",
+      "o",
+      "f",
+      "-",
+      null,
+      null
+    ],
+    [
+      "t",
+      "s",
+      "n",
+      "g",
+      "b",
+      "j",
+      "r",
+      "i",
+      "a",
+      "h",
+      "."
+    ],
+    [
+      "q",
+      "x",
+      "c",
+      "p",
+      "'",
+      "k",
+      "m",
+      "z",
+      "/",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "e"
+}

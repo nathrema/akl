@@ -1,0 +1,75 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "meteorite",
+  "name": "granite2",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "v",
+      "l",
+      "c",
+      "g",
+      "z",
+      "q",
+      "f",
+      "o",
+      "u",
+      "j",
+      ";",
+      null,
+      null
+    ],
+    [
+      "t",
+      "r",
+      "d",
+      "n",
+      "b",
+      "k",
+      "h",
+      "a",
+      "i",
+      "e",
+      {
+        "type": "inferred",
+        "value": "-"
+      }
+    ],
+    [
+      "x",
+      "w",
+      "p",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "'",
+      "y",
+      "m",
+      ".",
+      ",",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "s"
+}

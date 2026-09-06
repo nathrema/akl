@@ -1,0 +1,72 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "Melody",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "v",
+      "y",
+      "l",
+      "m",
+      "f",
+      "'",
+      "k",
+      "o",
+      "u",
+      "p",
+      null,
+      null,
+      null
+    ],
+    [
+      "t",
+      "s",
+      "r",
+      {
+        "type": "repeat"
+      },
+      "w",
+      "b",
+      "h",
+      "a",
+      "i",
+      "n",
+      ";"
+    ],
+    [
+      "z",
+      "x",
+      "c",
+      "g",
+      "j",
+      "q",
+      "d",
+      ".",
+      ",",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "e"
+}

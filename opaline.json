@@ -1,0 +1,84 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "nokwts",
+  "name": "opaline",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "b",
+      "f",
+      {
+        "rules": {
+          "'": "m",
+          "a": "y",
+          "h": "y",
+          "i": "'",
+          "r": "l",
+          "u": "'",
+          "y": ".",
+          "default": {
+            "type": "repeat"
+          }
+        },
+        "type": "magic"
+      },
+      "p",
+      "j",
+      "'",
+      ",",
+      "u",
+      "o",
+      "y",
+      null,
+      null,
+      null
+    ],
+    [
+      "n",
+      "s",
+      "t",
+      "d",
+      "w",
+      "k",
+      "r",
+      "i",
+      "a",
+      "h",
+      "/"
+    ],
+    [
+      "q",
+      "v",
+      "g",
+      "c",
+      "x",
+      "m",
+      "l",
+      ".",
+      ";",
+      "z"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2025",
+  "right_alt": "e"
+}

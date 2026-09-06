@@ -1,0 +1,70 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "Kun",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "v",
+      "y",
+      "l",
+      "f",
+      "p",
+      "'",
+      "j",
+      "o",
+      "u",
+      "q",
+      null,
+      null,
+      null
+    ],
+    [
+      "t",
+      "s",
+      "r",
+      "h",
+      "b",
+      "g",
+      "c",
+      "a",
+      "i",
+      "n",
+      ";"
+    ],
+    [
+      "z",
+      "x",
+      "d",
+      "k",
+      null,
+      "w",
+      "m",
+      ".",
+      ",",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "e"
+}

@@ -1,0 +1,72 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "ducky",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "v",
+      "l",
+      "d",
+      "f",
+      "z",
+      "q",
+      "w",
+      "u",
+      "o",
+      "j",
+      "-",
+      null,
+      null
+    ],
+    [
+      "t",
+      "r",
+      "n",
+      "s",
+      "k",
+      "g",
+      "c",
+      "a",
+      "i",
+      "h",
+      "."
+    ],
+    [
+      "x",
+      "b",
+      "p",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "'",
+      "y",
+      "m",
+      "/",
+      ";",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "e"
+}

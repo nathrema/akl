@@ -1,0 +1,75 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "meteorite",
+  "name": "obsidian2",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "v",
+      "c",
+      "d",
+      "g",
+      "x",
+      "q",
+      "f",
+      "o",
+      "u",
+      "j",
+      ";",
+      null,
+      null
+    ],
+    [
+      "s",
+      "t",
+      "l",
+      "n",
+      "b",
+      "k",
+      "h",
+      "a",
+      "i",
+      "e",
+      {
+        "type": "inferred",
+        "value": "-"
+      }
+    ],
+    [
+      "z",
+      "w",
+      "p",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "'",
+      "y",
+      "m",
+      ".",
+      ",",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "r"
+}

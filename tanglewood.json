@@ -1,0 +1,82 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "name": "tanglewood",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null,
+      null
+    ],
+    [
+      "b",
+      "f",
+      "d",
+      "g",
+      "v",
+      {
+        "type": "inferred",
+        "value": "/"
+      },
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      "o",
+      "u",
+      "j",
+      ";",
+      null,
+      null
+    ],
+    [
+      "n",
+      "s",
+      "t",
+      {
+        "type": "repeat"
+      },
+      "w",
+      "z",
+      "h",
+      "a",
+      "i",
+      "r",
+      "x"
+    ],
+    [
+      "p",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic",
+        "id": 1
+      },
+      "k",
+      "c",
+      "q",
+      "m",
+      "l",
+      ",",
+      ".",
+      "y"
+    ]
+  ],
+  "type": "ansi",
+  "year": "1874",
+  "right_alt": "e"
+}

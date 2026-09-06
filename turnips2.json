@@ -1,0 +1,77 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "turnips2",
+  "primary": true,
+  "right_alt": "t",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "b",
+      "l",
+      "v",
+      "g",
+      "y",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "o",
+      "u",
+      ",",
+      null,
+      null,
+      null
+    ],
+    [
+      "n",
+      "r",
+      "s",
+      "d",
+      "c",
+      "f",
+      "h",
+      "a",
+      "e",
+      "i",
+      ";"
+    ],
+    [
+      "j",
+      "x",
+      "w",
+      "m",
+      "q",
+      "k",
+      "p",
+      "z",
+      "/",
+      "."
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

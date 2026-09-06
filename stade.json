@@ -1,0 +1,72 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "stade",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "v",
+      "m",
+      "l",
+      "b",
+      "f",
+      "q",
+      "c",
+      "u",
+      "o",
+      "k",
+      ";",
+      null,
+      null
+    ],
+    [
+      "s",
+      "t",
+      "d",
+      "n",
+      "p",
+      "x",
+      "r",
+      "i",
+      "a",
+      "h",
+      "-"
+    ],
+    [
+      "z",
+      "w",
+      "g",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "'",
+      "y",
+      "j",
+      ",",
+      ".",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "e"
+}

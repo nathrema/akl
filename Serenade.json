@@ -1,0 +1,70 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "Serenade",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "v",
+      "l",
+      "n",
+      "g",
+      "m",
+      "'",
+      "p",
+      "o",
+      "u",
+      "q",
+      null,
+      null,
+      null
+    ],
+    [
+      "t",
+      "s",
+      "r",
+      "c",
+      "w",
+      "b",
+      "h",
+      "a",
+      "i",
+      "y",
+      ";"
+    ],
+    [
+      "z",
+      "x",
+      "j",
+      "f",
+      null,
+      "k",
+      "d",
+      ".",
+      ",",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "e"
+}

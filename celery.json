@@ -1,0 +1,77 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "celery",
+  "primary": true,
+  "right_alt": "s",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "v",
+      "l",
+      "b",
+      "c",
+      "w",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      "f",
+      "o",
+      "u",
+      "j",
+      null,
+      null,
+      null
+    ],
+    [
+      "t",
+      "r",
+      "n",
+      "d",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "y",
+      "h",
+      "a",
+      "e",
+      "i",
+      "."
+    ],
+    [
+      "q",
+      "x",
+      "g",
+      "m",
+      "z",
+      "k",
+      "p",
+      ";",
+      "/",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

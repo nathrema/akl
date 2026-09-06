@@ -1,0 +1,77 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "strday2",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "v",
+      "m",
+      "l",
+      "c",
+      "g",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      "f",
+      "o",
+      "u",
+      "j",
+      null,
+      null,
+      null
+    ],
+    [
+      "s",
+      "t",
+      "r",
+      "d",
+      "y",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "h",
+      "a",
+      "i",
+      "e",
+      ";"
+    ],
+    [
+      "q",
+      "x",
+      "w",
+      "p",
+      "z",
+      "k",
+      "b",
+      ".",
+      ",",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026",
+  "right_alt": "n"
+}

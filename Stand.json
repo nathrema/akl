@@ -1,0 +1,72 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "Stand",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "f",
+      "m",
+      "p",
+      "w",
+      "q",
+      "z",
+      "j",
+      "o",
+      "u",
+      ".",
+      null,
+      null,
+      null
+    ],
+    [
+      "s",
+      "t",
+      "n",
+      "d",
+      "y",
+      "x",
+      "r",
+      "a",
+      "e",
+      "i",
+      {
+        "type": "inferred",
+        "value": ";"
+      }
+    ],
+    [
+      "k",
+      "b",
+      "c",
+      "g",
+      "v",
+      "l",
+      "h",
+      "'",
+      "/",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

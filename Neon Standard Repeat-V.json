@@ -1,0 +1,82 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "name": "Neon Standard Repeat-V",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic",
+        "id": 1
+      },
+      "w",
+      "d",
+      "g",
+      "v",
+      ";",
+      "j",
+      "u",
+      "o",
+      "y",
+      "z",
+      null,
+      null
+    ],
+    [
+      "n",
+      "c",
+      "t",
+      "s",
+      "b",
+      "x",
+      "r",
+      "i",
+      "a",
+      "h",
+      {
+        "type": "inferred",
+        "value": "/"
+      }
+    ],
+    [
+      "p",
+      "m",
+      {
+        "type": "repeat"
+      },
+      "f",
+      "q",
+      "k",
+      "l",
+      ",",
+      ".",
+      {
+        "type": "inferred",
+        "value": "'"
+      }
+    ]
+  ],
+  "type": "ansi",
+  "year": "1874",
+  "right_alt": "e"
+}

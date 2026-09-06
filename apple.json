@@ -1,0 +1,75 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "apple",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "v",
+      "k",
+      "p",
+      "w",
+      "f",
+      "'",
+      "x",
+      "o",
+      "u",
+      "j",
+      null,
+      null,
+      null
+    ],
+    [
+      "s",
+      "t",
+      "n",
+      "d",
+      "y",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "h",
+      "a",
+      "e",
+      "i",
+      "."
+    ],
+    [
+      "q",
+      "b",
+      "c",
+      "g",
+      "z",
+      "m",
+      "l",
+      ";",
+      "/",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "r"
+}

@@ -1,0 +1,74 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "nathrema-repeat",
+  "primary": true,
+  "right_alt": "r",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "v",
+      "m",
+      "d",
+      "g",
+      "p",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      "k",
+      "o",
+      "u",
+      "j",
+      null,
+      null,
+      null
+    ],
+    [
+      "n",
+      "t",
+      "s",
+      "l",
+      "c",
+      "b",
+      "h",
+      "a",
+      "e",
+      "i",
+      ","
+    ],
+    [
+      "z",
+      "q",
+      {
+        "type": "repeat"
+      },
+      "w",
+      "x",
+      "y",
+      "f",
+      ";",
+      "/",
+      "."
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

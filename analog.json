@@ -1,0 +1,72 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "analog",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "b",
+      "m",
+      "d",
+      "g",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "'",
+      "y",
+      "u",
+      "o",
+      "j",
+      "-",
+      null,
+      null
+    ],
+    [
+      "n",
+      "t",
+      "s",
+      "c",
+      "v",
+      "x",
+      "r",
+      "i",
+      "a",
+      "h",
+      "."
+    ],
+    [
+      "k",
+      "f",
+      "w",
+      "p",
+      "q",
+      "z",
+      "l",
+      "/",
+      ";",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "e"
+}

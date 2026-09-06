@@ -1,0 +1,77 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "nerdy2",
+  "primary": true,
+  "right_alt": "s",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "b",
+      "v",
+      "l",
+      "c",
+      "m",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      "f",
+      "o",
+      "u",
+      "j",
+      null,
+      null,
+      null
+    ],
+    [
+      "n",
+      "t",
+      "r",
+      "d",
+      "g",
+      "k",
+      "h",
+      "a",
+      "e",
+      "i",
+      ";"
+    ],
+    [
+      "z",
+      "q",
+      "y",
+      "w",
+      "x",
+      "p",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      ".",
+      "/",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

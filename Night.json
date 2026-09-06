@@ -1,0 +1,88 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "left_hand": [
+    [
+      null,
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    [
+      null,
+      "b",
+      "f",
+      "l",
+      "k",
+      "q"
+    ],
+    [
+      null,
+      "n",
+      "s",
+      "h",
+      "t",
+      "m"
+    ],
+    [
+      null,
+      "x",
+      "v",
+      "j",
+      "d",
+      "z"
+    ]
+  ],
+  "name": "Night",
+  "primary": true,
+  "right_hand": [
+    [
+      "6",
+      "7",
+      "8",
+      "9",
+      "0",
+      null
+    ],
+    [
+      "p",
+      "g",
+      "o",
+      "u",
+      ".",
+      null
+    ],
+    [
+      "y",
+      "c",
+      "a",
+      "e",
+      "i",
+      {
+        "type": "inferred",
+        "value": "-"
+      }
+    ],
+    [
+      "'",
+      "w",
+      "/",
+      ";",
+      ",",
+      null
+    ]
+  ],
+  "thumbs": {
+    "left": [
+      "r",
+      null
+    ],
+    "right": [
+      null,
+      " "
+    ]
+  },
+  "type": "ortho_6x4",
+  "year": "2024"
+}

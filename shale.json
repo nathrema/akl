@@ -1,0 +1,72 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "shale",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "v",
+      "p",
+      "r",
+      "c",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "z",
+      "y",
+      "o",
+      "u",
+      "j",
+      ";",
+      null,
+      null
+    ],
+    [
+      "t",
+      "n",
+      "l",
+      "d",
+      "w",
+      "k",
+      "h",
+      "a",
+      "i",
+      "e",
+      "-"
+    ],
+    [
+      "q",
+      "x",
+      "g",
+      "b",
+      "'",
+      "f",
+      "m",
+      ".",
+      ",",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "s"
+}

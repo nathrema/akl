@@ -1,0 +1,75 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "meteorite",
+  "name": "onyx",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "b",
+      "d",
+      "c",
+      "w",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      ";",
+      "y",
+      "u",
+      "o",
+      "f",
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null,
+      null
+    ],
+    [
+      "n",
+      "s",
+      "t",
+      "l",
+      "v",
+      "j",
+      "r",
+      "i",
+      "a",
+      "h",
+      "."
+    ],
+    [
+      "q",
+      "x",
+      "g",
+      "p",
+      "'",
+      "k",
+      "m",
+      "z",
+      "/",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "e"
+}

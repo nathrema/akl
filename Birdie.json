@@ -1,0 +1,105 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "left_hand": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      "l",
+      "p",
+      "d",
+      "f"
+    ],
+    [
+      null,
+      "t",
+      "s",
+      "n",
+      "h",
+      "m"
+    ],
+    [
+      null,
+      "v",
+      "z",
+      "b",
+      "k",
+      "q"
+    ]
+  ],
+  "name": "Birdie",
+  "primary": true,
+  "right_hand": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "'",
+      "w",
+      [
+        "o",
+        "O",
+        "/"
+      ],
+      [
+        "u",
+        "U",
+        "?"
+      ],
+      null,
+      null
+    ],
+    [
+      "g",
+      [
+        "c",
+        "C",
+        "-"
+      ],
+      [
+        "a",
+        "A",
+        ";"
+      ],
+      [
+        "i",
+        "I",
+        ":"
+      ],
+      "e",
+      null
+    ],
+    [
+      "x",
+      "y",
+      ",",
+      ".",
+      "j",
+      null
+    ]
+  ],
+  "thumbs": {
+    "left": [
+      "r",
+      null
+    ],
+    "right": [
+      null,
+      " "
+    ]
+  },
+  "type": "ortho_6x4",
+  "year": "2025"
+}

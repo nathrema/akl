@@ -1,0 +1,82 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "nokwts",
+  "name": "opal",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "b",
+      "f",
+      {
+        "rules": {
+          "a": "y",
+          "h": "r",
+          "j": "o",
+          "r": "l",
+          "u": "'",
+          "y": "e",
+          "default": {
+            "type": "repeat"
+          }
+        },
+        "type": "magic"
+      },
+      "p",
+      "w",
+      "'",
+      ".",
+      "u",
+      "o",
+      "y",
+      ";",
+      null,
+      null
+    ],
+    [
+      "n",
+      "s",
+      "t",
+      "d",
+      "g",
+      "k",
+      "r",
+      "e",
+      "a",
+      "i",
+      "/"
+    ],
+    [
+      "q",
+      "v",
+      "c",
+      "m",
+      "x",
+      "l",
+      "h",
+      ",",
+      "z",
+      "j"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2025"
+}

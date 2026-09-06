@@ -1,0 +1,90 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "nastier",
+  "primary": true,
+  "right_alt": "r",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "b",
+      "m",
+      "l",
+      "c",
+      "g",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      "x",
+      "o",
+      "u",
+      "j",
+      null,
+      null,
+      null
+    ],
+    [
+      "n",
+      "t",
+      "s",
+      "d",
+      "y",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic",
+        "id": 4
+      },
+      "h",
+      "a",
+      "e",
+      "i",
+      {
+        "type": "inferred",
+        "value": ";"
+      }
+    ],
+    [
+      "z",
+      "v",
+      "w",
+      "p",
+      "q",
+      "f",
+      "k",
+      {
+        "type": "inferred",
+        "value": "."
+      },
+      {
+        "type": "inferred",
+        "value": "/"
+      },
+      {
+        "type": "inferred",
+        "value": ","
+      }
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

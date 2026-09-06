@@ -1,0 +1,70 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "Harmony",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "v",
+      "g",
+      "l",
+      "d",
+      "m",
+      "'",
+      "w",
+      "o",
+      "u",
+      "j",
+      null,
+      null,
+      null
+    ],
+    [
+      "t",
+      "s",
+      "r",
+      "h",
+      "b",
+      "q",
+      "c",
+      "a",
+      "i",
+      "n",
+      ";"
+    ],
+    [
+      "z",
+      "x",
+      "f",
+      "k",
+      null,
+      "p",
+      "y",
+      ".",
+      ",",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "e"
+}

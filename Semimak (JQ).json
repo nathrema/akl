@@ -1,0 +1,67 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "name": "Semimak (JQ)",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "f",
+      "l",
+      "h",
+      "v",
+      "z",
+      "'",
+      "w",
+      "u",
+      "o",
+      "y",
+      null,
+      null,
+      null
+    ],
+    [
+      "s",
+      "r",
+      "n",
+      "t",
+      "k",
+      "c",
+      "d",
+      "e",
+      "a",
+      "i",
+      ";"
+    ],
+    [
+      "x",
+      "j",
+      "b",
+      "m",
+      "q",
+      "p",
+      "g",
+      ",",
+      ".",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2021"
+}

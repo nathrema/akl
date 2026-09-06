@@ -1,0 +1,66 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "Kuntem",
+  "primary": true,
+  "rows": [
+    [
+      "`",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "0",
+      "-",
+      "="
+    ],
+    [
+      "v",
+      "l",
+      "n",
+      "d",
+      "k",
+      "q",
+      "w",
+      "o",
+      "u",
+      "j",
+      "[",
+      "]",
+      "\\"
+    ],
+    [
+      "t",
+      "s",
+      "r",
+      "h",
+      "f",
+      "g",
+      "c",
+      "a",
+      "i",
+      "e",
+      ";"
+    ],
+    [
+      "z",
+      "x",
+      "p",
+      "b",
+      "'",
+      "m",
+      "y",
+      ".",
+      ",",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024"
+}

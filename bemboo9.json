@@ -1,0 +1,82 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "name": "bemboo9",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null,
+      null
+    ],
+    [
+      "b",
+      "y",
+      "d",
+      "g",
+      "v",
+      "z",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic",
+        "id": 1
+      },
+      ".",
+      ",",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      ";",
+      null,
+      null
+    ],
+    [
+      "n",
+      "s",
+      "t",
+      {
+        "type": "repeat"
+      },
+      "w",
+      "x",
+      "r",
+      "i",
+      "a",
+      "h",
+      "j"
+    ],
+    [
+      "p",
+      "f",
+      "k",
+      "c",
+      {
+        "type": "inferred",
+        "value": "/"
+      },
+      "q",
+      "l",
+      "u",
+      "o",
+      "m"
+    ]
+  ],
+  "type": "ansi",
+  "year": "1874",
+  "right_alt": "e"
+}

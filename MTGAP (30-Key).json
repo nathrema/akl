@@ -1,0 +1,82 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "name": "MTGAP (30-Key)",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "y",
+      "p",
+      "o",
+      "u",
+      "j",
+      "k",
+      "d",
+      "l",
+      "c",
+      "w",
+      null,
+      null,
+      null
+    ],
+    [
+      "i",
+      "n",
+      "e",
+      "a",
+      [
+        ",",
+        ";"
+      ],
+      "m",
+      "h",
+      "t",
+      "s",
+      "r",
+      {
+        "type": "inferred",
+        "value": "'"
+      }
+    ],
+    [
+      "q",
+      "z",
+      [
+        "/",
+        "<"
+      ],
+      [
+        ".",
+        ">"
+      ],
+      [
+        ":",
+        "?"
+      ],
+      "b",
+      "f",
+      "g",
+      "v",
+      "x"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2012"
+}

@@ -1,0 +1,90 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "name": "Neon Standard Repeat-FH",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic",
+        "id": 1
+      },
+      "w",
+      "d",
+      "g",
+      "v",
+      "x",
+      "j",
+      "u",
+      "o",
+      "y",
+      "q",
+      ";",
+      null
+    ],
+    [
+      "n",
+      "c",
+      "t",
+      "s",
+      {
+        "type": "repeat"
+      },
+      {
+        "rules": {
+          "default": {
+            "type": "repeat"
+          }
+        },
+        "type": "magic",
+        "id": 2
+      },
+      "r",
+      "i",
+      "a",
+      "h",
+      {
+        "type": "inferred",
+        "value": "/"
+      }
+    ],
+    [
+      "p",
+      "m",
+      "b",
+      "f",
+      "z",
+      "k",
+      "l",
+      ",",
+      ".",
+      {
+        "type": "inferred",
+        "value": "'"
+      }
+    ]
+  ],
+  "type": "ansi",
+  "year": "1874",
+  "right_alt": "e"
+}

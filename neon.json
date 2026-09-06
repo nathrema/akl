@@ -1,0 +1,78 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "neon",
+  "primary": true,
+  "right_alt": "e",
+  "left_alt":"#",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "w",
+      "d",
+      "g",
+      "z",
+      ";",
+      "j",
+      "u",
+      "o",
+      "y",
+      null,
+      null,
+      null
+    ],
+    [
+      "n",
+      "c",
+      "t",
+      "s",
+      "v",
+      "x",
+      "r",
+      "i",
+      "a",
+      "h",
+      {
+        "type": "inferred",
+        "value": "'"
+      }
+    ],
+    [
+      "p",
+      "m",
+      "b",
+      "f",
+      "q",
+      "k",
+      "l",
+      ",",
+      ".",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

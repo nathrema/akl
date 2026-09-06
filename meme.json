@@ -1,0 +1,81 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "meme",
+  "primary": true,
+  "right_alt": "r",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      {
+        "type": "repeat"
+      },
+      "m",
+      "v",
+      "f",
+      "p",
+      "x",
+      "j",
+      "o",
+      "u",
+      {
+        "rules": {
+          "default": {
+            "type": "repeat"
+          }
+        },
+        "type": "magic"
+      },
+      ";",
+      null,
+      null
+    ],
+    [
+      "l",
+      "t",
+      "s",
+      "n",
+      "g",
+      "y",
+      "h",
+      "a",
+      "e",
+      "i",
+      "."
+    ],
+    [
+      "z",
+      "k",
+      "b",
+      "d",
+      "q",
+      "c",
+      "w",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      "/",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

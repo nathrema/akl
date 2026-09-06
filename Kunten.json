@@ -1,0 +1,75 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "download": true,
+  "fingermap": "angle mod",
+  "name": "Kunten",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "v",
+      "m",
+      "l",
+      "b",
+      "k",
+      "'",
+      "p",
+      "o",
+      "u",
+      "j",
+      null,
+      null,
+      null
+    ],
+    [
+      "t",
+      "n",
+      "r",
+      "h",
+      "d",
+      "w",
+      "c",
+      "a",
+      "i",
+      "e",
+      ";"
+    ],
+    [
+      "z",
+      "x",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "f",
+      "q",
+      "g",
+      "y",
+      ".",
+      ",",
+      "/"
+    ]
+  ],
+  "type": "ansi",
+  "year": "2024",
+  "right_alt": "s"
+}

@@ -1,0 +1,82 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "name": "rosewood",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null,
+      null
+    ],
+    [
+      "b",
+      "g",
+      "d",
+      "y",
+      "v",
+      {
+        "type": "inferred",
+        "value": "/"
+      },
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic",
+        "id": 1
+      },
+      "u",
+      "o",
+      "m",
+      ";",
+      null,
+      null
+    ],
+    [
+      "n",
+      {
+        "type": "repeat"
+      },
+      "t",
+      "s",
+      "w",
+      "j",
+      "r",
+      "i",
+      "a",
+      "h",
+      "z"
+    ],
+    [
+      "p",
+      "c",
+      "k",
+      "f",
+      "q",
+      "x",
+      "l",
+      ",",
+      ".",
+      {
+        "type": "inferred",
+        "value": "'"
+      }
+    ]
+  ],
+  "type": "ansi",
+  "year": "1874",
+  "right_alt": "e"
+}

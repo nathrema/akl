@@ -1,0 +1,72 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "fingermap": "angle mod",
+  "name": "handstand",
+  "primary": true,
+  "right_alt": "y",
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null
+    ],
+    [
+      "v",
+      "m",
+      "l",
+      "c",
+      "w",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      "k",
+      "o",
+      "u",
+      ".",
+      null,
+      null,
+      null
+    ],
+    [
+      "s",
+      "t",
+      "n",
+      "d",
+      "p",
+      "j",
+      "r",
+      "a",
+      "e",
+      "i",
+      null
+    ],
+    [
+      "z",
+      "x",
+      "g",
+      "f",
+      "q",
+      "b",
+      "h",
+      ";",
+      "/",
+      ","
+    ]
+  ],
+  "type": "ansi",
+  "year": "2026"
+}

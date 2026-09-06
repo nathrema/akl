@@ -1,0 +1,82 @@
+{
+  "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
+  "name": "chime",
+  "primary": true,
+  "rows": [
+    [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null,
+      null
+    ],
+    [
+      "b",
+      "g",
+      "d",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic",
+        "id": 1
+      },
+      "v",
+      {
+        "type": "inferred",
+        "value": "/"
+      },
+      "y",
+      "a",
+      "i",
+      "l",
+      ";",
+      null,
+      null
+    ],
+    [
+      "n",
+      {
+        "type": "repeat"
+      },
+      "t",
+      "s",
+      "w",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
+      "h",
+      "o",
+      "u",
+      "r",
+      "x"
+    ],
+    [
+      "p",
+      "c",
+      "k",
+      "f",
+      "q",
+      "z",
+      "m",
+      ",",
+      ".",
+      "j"
+    ]
+  ],
+  "type": "ansi",
+  "year": "1874",
+  "right_alt": "e"
+}
