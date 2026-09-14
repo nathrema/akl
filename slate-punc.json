@@ -2,7 +2,7 @@
   "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
   "download": true,
   "fingermap": "angle mod",
-  "name": "chia",
+  "name": "slate-punc",
   "primary": true,
   "rows": [
     [
@@ -24,14 +24,19 @@
       "v",
       "l",
       "d",
-      "f",
-      "z",
-      "q",
-      "w",
+      "b",
+      {
+        "rules": {
+          "default": "y"
+        },
+        "type": "magic"
+      },
+      "j",
+      "y",
       "o",
       "u",
-      "j",
-      ";",
+      ",",
+      "-",
       null,
       null
     ],
@@ -39,34 +44,29 @@
       "t",
       "r",
       "n",
-      "s",
-      "k",
       "g",
-      "c",
+      "w",
+      "'",
       "h",
       "i",
       "a",
-      "-"
+      "e",
+      ";"
     ],
     [
+      "q",
       "x",
-      "b",
       "p",
-      {
-        "rules": {
-          "default": "y"
-        },
-        "type": "magic"
-      },
-      "'",
-      "y",
+      "c",
+      "k",
+      "f",
       "m",
-      ",",
-      "/",
-      "."
+      "z",
+      ".",
+      "/"
     ]
   ],
   "type": "ansi",
   "year": "2024",
-  "right_alt": "e"
+  "right_alt": "s"
 }

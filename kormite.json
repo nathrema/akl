@@ -1,8 +1,8 @@
 {
   "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
   "download": true,
-  "fingermap": "angle mod",
-  "name": "chia",
+  "fingermap": "meteorite",
+  "name": "kormite",
   "primary": true,
   "rows": [
     [
@@ -22,48 +22,51 @@
     ],
     [
       "v",
-      "l",
-      "d",
-      "f",
-      "z",
-      "q",
-      "w",
-      "o",
-      "u",
-      "j",
-      ";",
-      null,
-      null
-    ],
-    [
-      "t",
-      "r",
-      "n",
-      "s",
-      "k",
-      "g",
       "c",
-      "h",
-      "i",
-      "a",
-      "-"
-    ],
-    [
-      "x",
-      "b",
-      "p",
+      "d",
+      "w",
       {
         "rules": {
           "default": "y"
         },
         "type": "magic"
       },
+      ",",
+      "k",
+      "u",
+      "o",
+      "f",
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null,
+      null
+    ],
+    [
+      "s",
+      "t",
+      "n",
+      "l",
+      "b",
+      "j",
+      "r",
+      "i",
+      "a",
+      "h",
+      "."
+    ],
+    [
+      "q",
+      "x",
+      "g",
+      "p",
       "'",
       "y",
       "m",
-      ",",
+      "z",
       "/",
-      "."
+      ";"
     ]
   ],
   "type": "ansi",

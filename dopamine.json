@@ -1,8 +1,8 @@
 {
   "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
   "download": true,
-  "fingermap": "angle mod",
-  "name": "chia",
+  "fingermap": "meteorite",
+  "name": "dopamine",
   "primary": true,
   "rows": [
     [
@@ -22,48 +22,51 @@
     ],
     [
       "v",
-      "l",
-      "d",
       "f",
-      "z",
-      "q",
-      "w",
-      "o",
-      "u",
-      "j",
-      ";",
-      null,
-      null
-    ],
-    [
-      "t",
-      "r",
-      "n",
-      "s",
-      "k",
-      "g",
-      "c",
-      "h",
-      "i",
-      "a",
-      "-"
-    ],
-    [
-      "x",
+      "m",
       "b",
-      "p",
+      "q",
+      ";",
+      "j",
+      "u",
+      "o",
       {
         "rules": {
           "default": "y"
         },
         "type": "magic"
       },
-      "'",
-      "y",
-      "m",
-      ",",
-      "/",
+      {
+        "type": "inferred",
+        "value": "-"
+      },
+      null,
+      null
+    ],
+    [
+      "t",
+      "s",
+      "d",
+      "c",
+      "g",
+      "x",
+      "n",
+      "i",
+      "a",
+      "h",
       "."
+    ],
+    [
+      "k",
+      "w",
+      "y",
+      "p",
+      "'",
+      "l",
+      "r",
+      "z",
+      "/",
+      ","
     ]
   ],
   "type": "ansi",

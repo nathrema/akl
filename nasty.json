@@ -17,10 +17,7 @@
       null,
       null,
       null,
-      {
-        "type": "inferred",
-        "value": "-"
-      },
+      null,
       null
     ],
     [
@@ -29,12 +26,21 @@
       "m",
       "g",
       "p",
-      "q",
-      "z",
+      "j",
+      {
+        "type": "inferred",
+        "value": "'"
+      },
       "u",
       "o",
-      "j",
-      null,
+      {
+        "type": "inferred",
+        "value": "."
+      },
+      {
+        "type": "inferred",
+        "value": "-"
+      },
       null,
       null
     ],
@@ -43,20 +49,20 @@
       "s",
       "t",
       "d",
-      "y",
       {
         "rules": {
           "default": "y"
         },
         "type": "magic"
       },
+      "x",
       "r",
       "i",
       "a",
       "h",
       {
         "type": "inferred",
-        "value": "."
+        "value": ","
       }
     ],
     [
@@ -64,12 +70,10 @@
       "k",
       "c",
       "w",
-      {
-        "type": "inferred",
-        "value": "'"
-      },
-      "x",
+      "q",
+      "y",
       "l",
+      "z",
       {
         "type": "inferred",
         "value": "/"
@@ -77,10 +81,6 @@
       {
         "type": "inferred",
         "value": ";"
-      },
-      {
-        "type": "inferred",
-        "value": ","
       }
     ]
   ],

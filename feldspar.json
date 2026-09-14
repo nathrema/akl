@@ -2,7 +2,7 @@
   "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
   "download": true,
   "fingermap": "angle mod",
-  "name": "chia",
+  "name": "feldspar",
   "primary": true,
   "rows": [
     [
@@ -21,49 +21,44 @@
       null
     ],
     [
-      "v",
-      "l",
+      "p",
+      "c",
       "d",
-      "f",
-      "z",
-      "q",
       "w",
-      "o",
-      "u",
+      "v",
+      "'",
       "j",
-      ";",
+      "u",
+      "o",
+      ".",
+      "-",
       null,
       null
     ],
     [
-      "t",
-      "r",
-      "n",
       "s",
-      "k",
+      "t",
+      "n",
       "g",
-      "c",
-      "h",
+      "k",
+      ",",
+      "r",
       "i",
       "a",
-      "-"
+      "h",
+      ";"
     ],
     [
-      "x",
+      "q",
       "b",
-      "p",
-      {
-        "rules": {
-          "default": "y"
-        },
-        "type": "magic"
-      },
-      "'",
-      "y",
       "m",
-      ",",
-      "/",
-      "."
+      "f",
+      null,
+      "y",
+      "l",
+      "z",
+      "x",
+      "/"
     ]
   ],
   "type": "ansi",

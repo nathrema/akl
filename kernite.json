@@ -1,7 +1,7 @@
 {
   "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
   "download": true,
-  "fingermap": "angle mod",
+  "fingermap": "meteorite",
   "name": "kernite",
   "primary": true,
   "rows": [
@@ -22,51 +22,54 @@
     ],
     [
       "v",
-      "l",
+      "c",
       "d",
-      "b",
+      "w",
       {
         "rules": {
           "default": "y"
         },
         "type": "magic"
       },
-      "z",
-      "y",
-      "o",
+      "'",
+      "k",
       "u",
-      "j",
-      "-",
+      "o",
+      "f",
+      {
+        "type": "inferred",
+        "value": "-"
+      },
       null,
       null
     ],
     [
-      "t",
       "s",
+      "t",
       "n",
-      "g",
-      "w",
-      "k",
-      "h",
+      "l",
+      "b",
+      ",",
+      "r",
       "i",
       "a",
-      "e",
-      ";"
+      "h",
+      "."
     ],
     [
       "q",
       "x",
-      "c",
+      "g",
       "p",
-      "'",
-      "f",
+      "j",
+      "y",
       "m",
-      ",",
-      ".",
-      "/"
+      "z",
+      "/",
+      ";"
     ]
   ],
   "type": "ansi",
   "year": "2024",
-  "right_alt": "r"
+  "right_alt": "e"
 }
