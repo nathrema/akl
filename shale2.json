@@ -1,8 +1,8 @@
 {
   "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
   "download": true,
-  "fingermap": "meteorite",
-  "name": "dopamine",
+  "fingermap": "angle mod",
+  "name": "shale2",
   "primary": true,
   "rows": [
     [
@@ -22,54 +22,51 @@
     ],
     [
       "v",
-      "b",
-      "m",
-      "f",
-      "q",
-      ";",
-      "j",
-      "u",
-      "o",
+      "l",
+      "d",
+      "w",
       {
         "rules": {
           "default": "y"
         },
         "type": "magic"
       },
-      {
-        "type": "inferred",
-        "value": "-"
-      },
+      ",",
+      "y",
+      "o",
+      "u",
+      "j",
+      "-",
       null,
       null
     ],
     [
       "t",
       "s",
-      "d",
+      "n",
       "c",
-      "p",
-      "x",
-      "r",
+      "b",
+      "k",
+      "h",
       "i",
       "a",
-      "h",
-      "."
+      "e",
+      ";"
     ],
     [
-      "k",
-      "w",
-      "y",
+      "q",
+      "x",
       "g",
+      "p",
       "'",
-      "l",
-      "n",
+      "f",
+      "m",
       "z",
-      "/",
-      ","
+      ".",
+      "/"
     ]
   ],
   "type": "ansi",
   "year": "2024",
-  "right_alt": "e"
+  "right_alt": "r"
 }

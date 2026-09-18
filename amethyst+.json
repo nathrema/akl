@@ -2,7 +2,7 @@
   "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
   "download": true,
   "fingermap": "meteorite",
-  "name": "dopamine",
+  "name": "amethyst+",
   "primary": true,
   "rows": [
     [
@@ -22,20 +22,20 @@
     ],
     [
       "v",
+      "p",
+      "g",
       "b",
-      "m",
-      "f",
-      "q",
-      ";",
-      "j",
-      "u",
-      "o",
       {
         "rules": {
           "default": "y"
         },
         "type": "magic"
       },
+      "'",
+      ",",
+      "u",
+      "o",
+      "k",
       {
         "type": "inferred",
         "value": "-"
@@ -46,27 +46,27 @@
     [
       "t",
       "s",
+      "n",
       "d",
-      "c",
-      "p",
+      "w",
       "x",
       "r",
-      "i",
       "a",
+      "i",
       "h",
       "."
     ],
     [
-      "k",
-      "w",
+      "q",
+      "f",
+      "c",
+      "m",
+      "j",
       "y",
-      "g",
-      "'",
       "l",
-      "n",
       "z",
       "/",
-      ","
+      ";"
     ]
   ],
   "type": "ansi",

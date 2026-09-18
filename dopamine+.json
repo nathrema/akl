@@ -2,7 +2,7 @@
   "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
   "download": true,
   "fingermap": "meteorite",
-  "name": "dopamine",
+  "name": "dopamine+",
   "primary": true,
   "rows": [
     [
@@ -22,9 +22,9 @@
     ],
     [
       "v",
-      "b",
-      "m",
       "f",
+      "m",
+      "b",
       "q",
       ";",
       "j",
@@ -48,11 +48,11 @@
       "s",
       "d",
       "c",
-      "p",
+      "g",
       "x",
       "r",
-      "i",
       "a",
+      "i",
       "h",
       "."
     ],
@@ -60,7 +60,7 @@
       "k",
       "w",
       "y",
-      "g",
+      "p",
       "'",
       "l",
       "n",

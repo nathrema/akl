@@ -2,7 +2,7 @@
   "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
   "download": true,
   "fingermap": "meteorite",
-  "name": "dopamine",
+  "name": "pearl+",
   "primary": true,
   "rows": [
     [
@@ -21,21 +21,21 @@
       null
     ],
     [
-      "v",
       "b",
-      "m",
-      "f",
-      "q",
-      ";",
-      "j",
-      "u",
-      "o",
+      "d",
+      "c",
+      "w",
       {
         "rules": {
           "default": "y"
         },
         "type": "magic"
       },
+      "'",
+      ",",
+      "u",
+      "o",
+      "f",
       {
         "type": "inferred",
         "value": "-"
@@ -44,29 +44,29 @@
       null
     ],
     [
-      "t",
+      "n",
       "s",
-      "d",
-      "c",
-      "p",
-      "x",
+      "t",
+      "m",
+      "v",
+      "k",
       "r",
-      "i",
       "a",
+      "i",
       "h",
       "."
     ],
     [
-      "k",
-      "w",
-      "y",
+      "q",
+      "x",
       "g",
-      "'",
+      "p",
+      "j",
+      "y",
       "l",
-      "n",
       "z",
       "/",
-      ","
+      ";"
     ]
   ],
   "type": "ansi",

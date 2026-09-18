@@ -1,8 +1,8 @@
 {
   "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
   "download": true,
-  "fingermap": "meteorite",
-  "name": "dopamine",
+  "fingermap": "nokwts",
+  "name": "ruby",
   "primary": true,
   "rows": [
     [
@@ -22,20 +22,20 @@
     ],
     [
       "v",
-      "b",
-      "m",
-      "f",
-      "q",
-      ";",
-      "j",
-      "u",
-      "o",
+      "p",
+      "g",
       {
         "rules": {
           "default": "y"
         },
         "type": "magic"
       },
+      "x",
+      "'",
+      ",",
+      "u",
+      "o",
+      "b",
       {
         "type": "inferred",
         "value": "-"
@@ -46,10 +46,10 @@
     [
       "t",
       "s",
+      "n",
       "d",
-      "c",
-      "p",
-      "x",
+      "f",
+      "k",
       "r",
       "i",
       "a",
@@ -57,19 +57,19 @@
       "."
     ],
     [
-      "k",
+      "j",
+      "c",
+      "m",
       "w",
+      "q",
       "y",
-      "g",
-      "'",
       "l",
-      "n",
       "z",
       "/",
-      ","
+      ";"
     ]
   ],
   "type": "ansi",
-  "year": "2024",
+  "year": "2025",
   "right_alt": "e"
 }

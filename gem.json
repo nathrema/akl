@@ -2,7 +2,7 @@
   "$schema": "https://layouts.wiki/schemas/layout-variant.schema.json",
   "download": true,
   "fingermap": "meteorite",
-  "name": "dopamine",
+  "name": "gem",
   "primary": true,
   "rows": [
     [
@@ -21,21 +21,21 @@
       null
     ],
     [
-      "v",
       "b",
-      "m",
       "f",
-      "q",
-      ";",
-      "j",
-      "u",
-      "o",
+      "c",
+      "w",
       {
         "rules": {
           "default": "y"
         },
         "type": "magic"
       },
+      "x",
+      "'",
+      "u",
+      "o",
+      "y",
       {
         "type": "inferred",
         "value": "-"
@@ -44,12 +44,12 @@
       null
     ],
     [
-      "t",
+      "n",
       "s",
+      "t",
       "d",
-      "c",
       "p",
-      "x",
+      ",",
       "r",
       "i",
       "a",
@@ -57,16 +57,16 @@
       "."
     ],
     [
-      "k",
-      "w",
-      "y",
+      "q",
+      "v",
       "g",
-      "'",
+      "m",
+      "j",
+      "k",
       "l",
-      "n",
       "z",
       "/",
-      ","
+      ";"
     ]
   ],
   "type": "ansi",
